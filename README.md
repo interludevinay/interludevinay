@@ -33,10 +33,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaysharma-dev&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinaysharma-dev&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=interludevinay-dev&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=interludevinay-dev&theme=radical" height="180"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma-dev&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interludevinay-dev&layout=compact&theme=radical"/>
 </div>
 
 ---
