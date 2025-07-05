@@ -1,17 +1,16 @@
 # 👋 Hyy there 😉, I'm Vinay Sharma
+---
 
 **Versatile DevOps Developer with a strong foundation in AWS, Python, ML, and Automation.**
 
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A3E0&width=435&lines=DevOps+Enthusiast+🚀;AWS+Cloud+Learner+☁️;Python+Automation+Beginner+🐍;Machine+Learning+Practitioner+🤖)](https://git.io/typing-svg)
 
----
+
 - 🌱 I’m currently open to **Cloud and DevOps roles**
 - 🤝 I’m looking to collaborate on **Cloud / DevOps projects**
 - 📫 Reach me at: **vinay1270sharma@gmail.com**
 
----
+
 
 ## 🌐 Connect with me  
 
@@ -26,9 +25,6 @@
 </p>
 
 
----
-
----
 
 ## 🚀 Tech Stack
 
@@ -47,9 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
 </p>
-
-
----
 
 
 ⭐️ _Let’s innovate and build together!_
